@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Guitar_01/Scenes/Guitar_01_SampleScene.unity
+- path: Assets/myAnim-ada.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
